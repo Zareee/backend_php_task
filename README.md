@@ -1,6 +1,6 @@
 # backend_php_task
 
-#RUN THIS SQL SCRIPT
+#RUN THIS SQL SCRIPT, SO APP CAN RUN.
 
 CREATE DATABASE test_db;
 
